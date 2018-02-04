@@ -116,3 +116,8 @@ test/cache/*
 
 libbitcoinconsensus.pc
 contrib/devtools/split-debug.sh
+EyCoin/.vs/EyCoin/v15/.suo
+EyCoin/.vs/EyCoin/v15/Browse.VC.db
+EyCoin/.vs/EyCoin/v15/Browse.VC.opendb
+EyCoin/.vs/EyCoin/v15/ipch/AutoPCH/39ebe3d109bd5e9a/CHAINPARAMSBASE.ipch
+EyCoin/.vs/EyCoin/v15/ipch/AutoPCH/947437453324d2a7/CHECKPOINTS.ipch
